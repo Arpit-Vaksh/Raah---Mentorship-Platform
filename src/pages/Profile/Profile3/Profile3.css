@@ -1,0 +1,26 @@
+.skills{
+  display: flex;
+  justify-content: center;
+  gap: 5rem;
+  margin: 5rem;
+}
+.prof{
+  margin: 5rem;
+  padding-bottom: 50px;
+  background: rgba(21, 90, 159, 0.2);
+  border-radius: 30px;
+}
+textarea{
+  height: 100px;
+}
+.next-btn{
+  text-align: center;
+}
+
+.next-btn button{
+  margin: 0 20px 0 20px;
+  width: 20%;
+}
+.skills span{
+  font-size: 20px;
+}

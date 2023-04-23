@@ -1,0 +1,36 @@
+.details-side, span {
+  margin-right: 50px;
+  font-size: 25px;
+}
+
+.avatar {
+  display: block;
+  border-radius: 50%;
+  margin-top: 5rem;
+  margin-bottom: 2rem;
+  height: 300px;
+}
+
+.prof1 {
+  display: flex;
+  max-width: 1500px;
+  margin-top: 5rem;
+}
+
+.sel {
+  height: 40px;
+  border-radius: 8px;
+  font-size: medium;
+}
+
+
+.details-side {
+  padding: 30px 60px 40px 50px;
+  background: rgba(21, 90, 159, 0.2);
+  border-radius: 30px;
+}
+
+.details-side input, .sel{
+  width: 100%;
+}
+

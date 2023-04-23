@@ -1,0 +1,24 @@
+.profile-nav{
+    display: flex;
+    justify-content: space-between;
+    width: 1514px;
+    align-items: center;
+    background-color: #00000088;
+    backdrop-filter: blur(10px);
+    position: sticky;
+    top: 0px;
+}
+.exit-btn{
+    padding: 10px;
+    background-color: #0999f2;
+    border-radius: 15px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 5rem;
+}
+.exit-btn:hover{
+    transform: scale(1.2, 1.2);
+    transition: ease-in-out 0.5s;
+}

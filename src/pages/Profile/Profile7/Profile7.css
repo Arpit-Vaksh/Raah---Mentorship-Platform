@@ -1,0 +1,8 @@
+.platform {
+  display: flex;
+  margin:2rem;
+  align-items: center;
+}
+.questions{
+  margin: 5rem;
+}

@@ -1,0 +1,13 @@
+.extra {
+  margin: 2rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.hackathon-content1 {
+  display: grid;
+  grid-template-columns: auto;
+}

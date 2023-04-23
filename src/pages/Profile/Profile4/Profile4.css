@@ -1,0 +1,17 @@
+.internship {
+  display: flex;
+  justify-content: space-around;
+  margin: 5rem;
+}
+
+.internship span{
+  font-size: 20px;
+}
+
+.addmore-btn{
+  text-align: center;
+  margin: 5rem;
+}
+.addmore-btn button{
+  width: 15%;
+}
